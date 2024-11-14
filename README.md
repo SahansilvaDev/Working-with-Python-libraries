@@ -4,12 +4,14 @@ learn how to use python libraries, NumPy , Matplotlib, Pandas, SciPy
 
 Python NumPy -np.py file
 
-Create an Array
-Array Indexing
-Array Slicing
-Data Types
-Copy Vs View
-Iterating 
-Shape and Reshape
-Search elements
-Join and Split
+<ol>
+  <li>Create an Array</li>
+  <li>Array Indexing</li>
+  <li>Array Slicing</li>
+  <li>Data Types</li>
+  <li>Copy Vs View</li>
+  <li>Iterating </li>
+  <li>Shape and Reshape</li>
+  <li>Search elements</li>
+  <li>Join and Split</li>
+</ol>
