@@ -41,3 +41,18 @@ NumPy Random - npUfunc.py file
 <li>NumPy ufunc Summations</li>
 <li>NumPy ufunc Products</li>
 </ol>
+
+<hr>
+
+Python Matplotlib  - matplotlib_file.py file
+<p>Matplotlib is a popular data visualization library in Python and Matplotlib allows you to generate plots, histograms, bar charts, scatter plots, etc., with just a few lines of code.</p>
+<ol>
+  <li>Basic plotting</li>
+  <li>Color, Marker, Line Style</li>
+  <li>Limits of axis</li>
+  <li>Subplots </li>
+  <li>Line chart </li>
+  <li>Bar chart </li>
+  <li>Histogram </li>
+  <li>Pie Chart</li>
+</ol>
