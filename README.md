@@ -20,13 +20,13 @@ Python NumPy - np.py file
 NumPy Random - npRandom.py file
 <p>The numpy. random module implements pseudo-random number generators (PRNGs or RNGs, for short) with the ability to draw samples from a variety of probability distributions.</p>
 <ol>
-<li>Numpy Random Data Distribution</li>
-<li>Numpy Random Permutations</li>
-<li>Numpy Seaborn</li>
-<li>Numpy Normal Distribution</li>
-<li>Numpy Binomial Distribution</li>
-<li>Numpy Poisson Distribution</li>
-<li>Numpy Uniform Distribution</li>
+<li>Numpy Random Data Distribution - You can create random data distributed according to different statistical properties</li>
+<li>Numpy Random Permutations - The numpy.random.permutation function shuffles the elements of an array or returns a randomly permuted range of numbers.</li>
+<li><b>Numpy Seaborn - Seaborn is a library often used to visualize random data distributions.</b></li>
+<li>Numpy Normal Distribution - The normal (Gaussian) distribution is one of the most commonly used. It is defined by its mean (center) and standard deviation (spread).</li>
+<li>Numpy Binomial Distribution - The binomial distribution models the number of successes in a fixed number of trials.</li>
+<li>Numpy Poisson Distribution - The Poisson distribution models the number of events in a fixed interval of time or space.</li>
+<li>Numpy Uniform Distribution - The uniform distribution generates values evenly distributed between two bounds.</li>
 </ol>
 
 
