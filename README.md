@@ -56,3 +56,25 @@ Python Matplotlib  - matplotlib_file.py file
   <li>Histogram </li>
   <li>Pie Chart</li>
 </ol>
+
+
+
+<hr>
+
+Python Pandas  - pandas_file.ipynb file
+<p>Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. The name "Pandas" has a reference to both "Panel Data".</p>
+<ul>
+  <li>Series</li>
+  <li>Data Frame</li>
+  <li>Dictionary</li>
+  <li>Import CSV </li>
+  <li>Removing Columns in dataset </li>
+  <li>Get useful data from dataset</li>
+  <li>Filling the missing values with mean </li>
+  <li>Adding conditions</li>
+  <li>Filtering</li>
+  <li>Dataset Visualize</li>
+
+</ul>
+
+
