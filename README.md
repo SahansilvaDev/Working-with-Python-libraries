@@ -1,5 +1,5 @@
 # Working-with-Python-libraries
-learn how to use python libraries, NumPy , Matplotlib, Pandas, SciPy (Other libraries will update ASAP)
+learn how to use python libraries, NumPy , Matplotlib, Pandas, SciPy...
 
 
 Python NumPy - np.py file
