@@ -340,6 +340,78 @@ new= x.reshape(-1)
 print(new)
 
 
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+
+
+#######################      Numpy Array Reshaping          ###########################
+
+origina_array = np.array([1,2,3,4,5,6])
+
+row_major = origina_array.reshape(2,3,order='C')
+
+column_major = origina_array.reshape(2,3,order='F')
+
+reshaped_array = origina_array.reshape(2,3)
+
+
+print('origina_array : ')
+print(origina_array)
+print()
+print('row_major : ')
+print(row_major)
+print()
+print('column_major : ')
+print(column_major)
+print()
+print('reshaped_array : ')
+print(reshaped_array)
+print()
+
+
+
+
+
+
+
+
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+
+################  array view and shape #######################
+
+original_array = np.array([[12,34,54],[21,43,24]])
+
+array_view = original_array.view()
+
+array_view.shape = (3,2)
+
+print('Original array :')
+
+print(original_array)
+print('Array View :')
+print(array_view)
+
+print()
+print()
+print()
+print()
+print()
+
+
+
+
+
 
 print()
 print()
